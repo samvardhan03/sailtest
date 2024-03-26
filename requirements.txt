@@ -1,4 +1,6 @@
-numpy
+transformers
+torch
+scikit-learn
 tensorflow
 tflearn
 nltk
